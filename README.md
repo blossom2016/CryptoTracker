@@ -17,4 +17,4 @@ This project monitors cryptocurrency prices using AWS Lambda and sends alerts wh
 4. Add environment variables for crypto API and thresholds.
 
 ## Demo
-[[Link to a video demo or screenshots]](https://youtu.be/M_6Si19s32w)
+[[Link to a video demo]](https://youtu.be/M_6Si19s32w)

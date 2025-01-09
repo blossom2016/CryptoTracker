@@ -1,5 +1,3 @@
-# CryptoTracker
-
 # Crypto Price Alert System
 
 ## Overview

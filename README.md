@@ -9,6 +9,7 @@ This project monitors cryptocurrency prices using AWS Lambda and sends alerts wh
 
 ## Architecture
 [Insert a diagram here] ![Example Image]((https://github.com/blossom2016/CryptoTracker/blob/main/Brainboard%20-%20Architecture%201.png))
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## How to Deploy
 1. Deploy the Lambda function.
